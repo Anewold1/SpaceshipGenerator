@@ -3,7 +3,7 @@ bl_info = {
     "author": "Anewold",
     "wiki_url": "https://github.com/Anewold1/SpaceshipGenerator/wiki",
     "tracker_url": "https://github.com/Anewold1/SpaceshipGenerator/issues",
-    "version": (1, 2, 0),
+    "version": (1, 2, 1),
     "blender": (5, 0, 0),
     "location": "View3D > Add > Mesh",
     "description": "Procedurally generate 3D spaceships from a random seed.",
